@@ -2,7 +2,7 @@
 
 clone repo
 ```
-git clone https://github.com/LutfiDAdi/Nuklai-Auto-Bot
+git clone https://github.com/NoInternetSecured/Nuklai-Auto-Bot.git
 cd Nuklai-Auto-Bot
 ```
 
