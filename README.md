@@ -2,8 +2,8 @@
 
 clone repo
 ```
-git clone https://github.com/LutfiDAdi/Pharos-Daily-Bot.git
-cd Pharos-Daily-Bot
+git clone https://github.com/LutfiDAdi/Nuklai-Auto-Bot
+cd Nuklai-Auto-Bot
 ```
 
 istal depend
